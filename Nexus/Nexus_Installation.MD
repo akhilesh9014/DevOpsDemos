@@ -37,7 +37,7 @@ Add nexus as a service at boot time
 ```sh
 sudo ln -s /opt/nexus/bin/nexus /etc/init.d/nexus
 sudo chkconfig --add nexus
-sudo chkconfig nexus     # this command is nexus enable on system reboot
+sudo chkconfig nexus on    # this command is nexus enable on system reboot
 
 ```
 Login as a nexus user and start service
