@@ -65,6 +65,9 @@ service is not starting?
 Unable to access nexus URL?
 - make sure port 8081 is opened in security group. 
 
+below url is for create nexus as a service 
+https://help.sonatype.com/repomanager3/installation/run-as-a-service
+
 ### Next Steps
 - [x] [Configure Users & Groups in Jenkins](https://youtu.be/jZOqcB32dYM)
 - [x] [Secure your Jenkins Server](https://youtu.be/19FmJumnkDc)
